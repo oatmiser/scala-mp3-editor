@@ -1,0 +1,11 @@
+# Scala / Metals / Bloop
+.bloop/
+.metals/
+target/
+
+# Editor
+.vscode/
+
+# Logs
+*.log
+
